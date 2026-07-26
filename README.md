@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Signal10
 
 Signal10 is a mood-driven news aggregator. Instead of browsing endless headlines, you tell it how you're feeling on a scale of 1–10, and it fetches real, live news that matches the tone you're in — from light entertainment to serious world events. You can also skip the mood scale entirely and search any topic directly.
