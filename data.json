@@ -1,0 +1,28 @@
+{
+    "impact_level":{
+        "soft_news":{
+            "range":[0,3],
+            "keyword":["entertainment gossip and celebrity news",
+                        "feel good human interest stories",
+                        "quirky lifestyle and pop culture",
+                        "arts culture and movie reviews"]
+            
+        }, 
+        "mixed_news":{
+            "range":[4,7],
+            "keyword":["technology trends and gadgets",
+                        "business and startup updates",
+                        "general lifestyle news",
+                        "science and nature discoveries"]
+           
+        },
+        "critical_news":{
+            "range":[8,10],
+            "keyword":["breaking world news",
+                        "global economic updates",
+                        "major political developments",
+                        "critical scientific breakthroughs"]
+           
+        }
+    }
+}
